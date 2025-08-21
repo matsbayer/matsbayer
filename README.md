@@ -1,3 +1,3 @@
-## Hello there and Roll Tide 🐘
+## Hello there 𝒜nd Roll Tide! 🐘
 
-Student 🎓 | Software Developer 💻
+Student 🎓 | Softw𝒜re Developer 💻
