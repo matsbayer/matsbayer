@@ -1,6 +1,6 @@
 ## Hello there!
 
-Student 🎓 | Software Developer 💻
+Student of Applied Computer Science 🎓 | Software Developer 💻
 
 <img src="/bigal.png" width="256" style="border-radius:20px" />
 
