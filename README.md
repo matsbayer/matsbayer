@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-<img align="right" width="256" src="/bigal.png" alt="Avatar" style="border-radius:20px">
+<img align="right" width="200" src="/bigal.png" alt="Avatar" style="border-radius:20px">
 
 - 🎓 Applied CS Graduate Student from Germany 
 - 💻 I love developing full-stack apps and experimenting with data to build end-to-end pipelines and machine learning models
