@@ -1,9 +1,11 @@
 ## Hello there! 👋
 
+<img align="right" width="256" src="/bigal.png" alt="Avatar" style="border-radius:20px">
+
 - 🎓 Applied CS Graduate Student from Germany 
 - 💻 I love developing full-stack apps and experimenting with data to build end-to-end pipelines and machine learning models
-- 📖 Currently diving into **Swift & SwiftUI** to expand my skills and build native macOS apps, as well as learning Spanish 🇪🇸🌎 
-
+- 📖 Currently diving into **Swift & SwiftUI** to expand my skills and build native macOS apps, as well as learning Spanish 🇪🇸🌎
+- 
 <img align="right" width="256" src="/bigal.png" alt="Avatar" style="border-radius:20px">
 
 <br clear="both"/>
