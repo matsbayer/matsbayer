@@ -1,13 +1,10 @@
 ## Hello there! 👋
 
-Welcome to my GitHub Profile
-
-Student of Applied Computer Science 🎓 | Software Developer 💻
+- 🎓 Applied CS Graduate Student from Germany 
+- 💻 I love developing full-stack apps and experimenting with data to build end-to-end pipelines and machine learning models
+- 📖 Currently diving into **Swift & SwiftUI** to expand my skills and build native macOS apps, as well as learning Spanish 🇪🇸🌎 
 
 <img align="right" width="256" src="/bigal.png" alt="Avatar" style="border-radius:20px">
-
-### About me
-Hier steht dein Text über dich. Das Bild wird automatisch rechts daneben platziert und der Text fließt links daran vorbei.
 
 <br clear="both"/>
 
