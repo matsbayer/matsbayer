@@ -2,7 +2,7 @@
 
 Student of Applied Computer Science 🎓 | Software Developer 💻
 
-<img align="right" width="200" src="/bigal.png" alt="Avatar">
+<img align="right" width="256" src="/bigal.png" alt="Avatar" style="border-radius:20px">
 
 ### About me
 Hier steht dein Text über dich. Das Bild wird automatisch rechts daneben platziert und der Text fließt links daran vorbei.
