@@ -2,17 +2,15 @@
 
 Student of Applied Computer Science 🎓 | Software Developer 💻
 
+<img align="right" width="200" src="/bigal.png" alt="Avatar">
 
+### About me
+Hier steht dein Text über dich. Das Bild wird automatisch rechts daneben platziert und der Text fließt links daran vorbei.
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    <h4>About me</h4>
-    <p>Hier steht der linke Text.</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/bigal.png" width="256" style="border-radius:20px" />
-  </div>
-</div>
+<br clear="both"/>
+
+<img src="/bigal.png" width="256" style="border-radius:20px" />
+
 
 
 ### 💻 Tech Stack:
