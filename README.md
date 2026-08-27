@@ -1,4 +1,7 @@
-## Hello there!
+## Hello there! 👋
+
+Welcome to my GitHub Profile
+
 
 Student of Applied Computer Science 🎓 | Software Developer 💻
 
@@ -9,7 +12,6 @@ Hier steht dein Text über dich. Das Bild wird automatisch rechts daneben platzi
 
 <br clear="both"/>
 
-<img src="/bigal.png" width="256" style="border-radius:20px" />
 
 
 
