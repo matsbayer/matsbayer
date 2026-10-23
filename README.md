@@ -6,8 +6,6 @@
 - I love developing full-stack apps and experimenting with data to build end-to-end pipelines and machine learning models
 - Currently diving into **Swift & SwiftUI** to expand my skills and build native macOS apps, as well as learning Spanish
 
-<br clear="both"/>
-
 ### Tech Stack
 
 | Category | Technologies |
